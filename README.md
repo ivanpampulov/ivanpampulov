@@ -1,6 +1,7 @@
 # Ivan Pampulov - GitHub Profile
 
 Hello! 👋 I'm Ivan Pampulov, a BSc graduate in Mechanical Engineering with a passion for Python development and 8 years of experience in B2B Sales. 🚀
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-pampulov-8a2a00105/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ivan.pampulov@gmail.com)
 
