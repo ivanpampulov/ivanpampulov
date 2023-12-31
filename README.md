@@ -10,7 +10,7 @@ Hello! 👋 I'm Ivan Pampulov, a BSc graduate in Mechanical Engineering with a p
 
 ## Interests
 
-I have a keen interest in leveraging Python for data analysis, and I'm on a journey to enhance my skills in this domain. Already developed some basic tools for my current work which led to reducing manual work for my colleagues and myself.
+I have a keen interest in leveraging Python for data analysis, and I'm on a journey to enhance my skills in this domain. I hate manual work and trust that almost every task can be automated, therefore developed some basic tools for my current work. Check data_transfer repository for more info.
 
 ## Learning Journey
 
